@@ -1,6 +1,6 @@
-# power bi dashboard-eda-
+# CITY PALACE AND OCEANVIEW RESORT HOTELS-EDA-AND-DASHBOARD
 
-This project performs an Exploratory Data Analysis (EDA) on a hotel booking dataset to uncover patterns, trends, and insights. The analysis is done using Python with visualization libraries like Matplotlib, Seaborn, and Pandas.The EDA is then transformed into an insightful dashboard using POWER BI.
+This project performs an Exploratory Data Analysis (EDA) on a hotel bookings happened in two types of hotel (CITY PALACE HOTEL AND OCEANVIEW RESORT) to uncover patterns, trends, and insights. The analysis is done using Python with visualization libraries like Matplotlib, Seaborn, and Pandas.The EDA is then transformed into an insightful dashboard using POWER BI.
 
 Project Structure
 hotel_bookings.csv: The dataset used for analysis.

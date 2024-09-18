@@ -7,7 +7,7 @@ hotel_bookings.csv: The dataset used for analysis.
 EDA_Hotel_Booking.ipynb: Jupyter Notebook containing the EDA.
 Power Bi Dashboard of hotel booking.
 
-Dataset Overview
+Dataset Overview:
 
 The dataset contains hotel booking data with attributes like:
 Hotel Type (City or Resort)
@@ -18,7 +18,7 @@ Number of Guests (Adults, Children, Babies)
 Average Daily Rate (ADR)
 Customer type, etc.
 
-Key Steps
+Key Steps:
 
 Data Cleaning: Handling missing values and outliers.
 Data Exploration: Understanding distribution, cancellations, average stay, and customer trends.
@@ -26,7 +26,7 @@ Data Exploration: Understanding distribution, cancellations, average stay, and c
 Visualizations is made on the dataset to understand the insights and hidden findings.
 Insights: Key business insights like high cancellation rates, customer segments, ADR trends, and more.
 
-Libraries Used
+Libraries Used:
 Pandas: Data manipulation.
 Matplotlib/Seaborn: Data visualization.
 NumPy: Numerical operations.

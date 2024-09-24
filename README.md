@@ -31,3 +31,5 @@ Pandas: Data manipulation.
 Matplotlib/Seaborn: Data visualization.
 NumPy: Numerical operations.
 Power bi Desktop: Transforming EDA to Dashboard.
+![image](https://github.com/user-attachments/assets/62e5752e-68c5-4b3b-a985-74c527a35f4c)
+
